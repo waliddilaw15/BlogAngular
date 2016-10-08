@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "authors": [
+    "walid <walid.benabda@walid-it.tn>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "restangular": "^1.5.2"
+  }
+}
